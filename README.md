@@ -8,6 +8,7 @@ Feel free to check out some of the things that I'm building, the best places to 
 
 
  **Dev / Design**  
+👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)
 🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
 👨🏾‍🎨 Dribble: [satv1r](https://dribbble.com/satv1r)  
 
