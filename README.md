@@ -1,5 +1,5 @@
 
-I'm a front-end developer looking for new oppurtunities.
+**Welcome Internet Stranger 🏾**
 
 Feel free to check out some of the things that I'm building, the best places to start are:   
 **fake**: A tool that lets you  
