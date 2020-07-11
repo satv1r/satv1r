@@ -2,11 +2,11 @@
 I'm a fullstack developer that enjoys working 
 
 
- Dev / Design
+ **Dev / Design**
 🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
 👨🏾‍🎨 Dribble: [satv1r](https://dribbble.com/satv1r)  
 
- Connect
+**Connect**
 💬 Twitter: [satv1r](https://twitter.com/satv1r)  
 ✍🏽 Email: 356Sandhu@gmail.com
 
