@@ -2,9 +2,13 @@
 I'm a fullstack developer that enjoys working 
 
 
-## Links
-🎨 Codepen: [satv1r](https://codepen.io/satv1r)  
-💬 Twitter: [satv1r](https://twitter.com/satv1r)
+## Dev / Design
+🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
+👨🏾‍🎨 Dribble: [satv1r](https://dribbble.com/satv1r)  
+
+## Connect
+💬 Twitter: [satv1r](https://twitter.com/satv1r)  
+✍🏽 Email: 356Sandhu@gmail.com
 
 <!--
 **satv1r/satv1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
