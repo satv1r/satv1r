@@ -3,7 +3,7 @@ I'm a fullstack developer that enjoys working
 
 
 ## Links
-🎨 Codepen: [satv1r](https://codepen.io/satv1r)
+🎨 Codepen: [satv1r](https://codepen.io/satv1r)  
 💬 Twitter: [satv1r](https://twitter.com/satv1r)
 
 <!--
