@@ -6,9 +6,9 @@ Feel free to check out some of the things that I'm building, the best places to 
 - fake 2
 - fake 3
 
-**Skills**
-- HTML / CSS (SASS/SCSS too!) / JS (ES6+)
-- Node, React, Express, MongoDB, Firebase
+**What I work with**
+HTML / CSS (SASS/SCSS too!) / JS (ES6+)  
+Node, React, Express, MongoDB, Firebase. 
 
  **Dev / Design**  
 👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
