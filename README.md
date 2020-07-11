@@ -1,5 +1,8 @@
 
-**Welcome Stranger, It's a pleasure to have you here** 😁
+### Welcome Stranger, It's a pleasure to have you here 😁
+I'm a front-end developer from Toronto, Canada. 
+I'm currently looking for remote oppurtunities in front-end or full-stack.
+I'm open to any company, working on anything, anywhere in the world 😄
 
 Feel free to check out some of the things that I'm building, the best places to start are:   
 **fake**: A tool that lets you  
