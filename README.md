@@ -2,9 +2,9 @@
 I'm a front-end developer looking for new oppurtunities.
 
 Feel free to check out some of the things that I'm building, the best places to start are:
-- fake
-- fake 2
-- fake 3
+**fake**: A tool that lets you  
+**fake**: A tool that lets you  
+**fake**: A tool that lets you  
 
 **What I Work With**  
 HTML / CSS (SASS/SCSS too!) / JS (ES6+)   
