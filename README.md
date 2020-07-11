@@ -3,7 +3,7 @@
 I'm Satvir, a front-end developer from Toronto, Canada.  
 Currently, I'm looking for remote oppurtunities in front-end or full-stack web development.  
 
-Feel free to check out some of the things that I'm building, the best places to start are:   
+**Feel free to check out some of the things that I'm building, the best places to start are:**      
 **fake**: A tool that lets you  
 **fake**: A tool that lets you  
 **fake**: A tool that lets you  
