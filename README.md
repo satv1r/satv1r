@@ -1,11 +1,10 @@
-# 👨🏾‍💻 Satvir Sandhu
 
 I'm a fullstack developer that enjoys working 
 
 
 ## Links
-- 🎨 Codepen: [satv1r](https://codepen.io/satv1r)
-- 💬 Twitter: [satv1r](https://twitter.com/satv1r)
+🎨 Codepen: [satv1r](https://codepen.io/satv1r)
+💬 Twitter: [satv1r](https://twitter.com/satv1r)
 
 <!--
 **satv1r/satv1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
