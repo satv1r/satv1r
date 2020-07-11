@@ -2,7 +2,7 @@
 I'm a fullstack developer that enjoys working 
 
 
- **Dev / Design**. 
+ **Dev / Design**  
 🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
 👨🏾‍🎨 Dribble: [satv1r](https://dribbble.com/satv1r)  
 
