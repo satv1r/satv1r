@@ -1,6 +1,6 @@
 
 ### Welcome Stranger, It's a pleasure to have you here 😁
-I'm Satvir, a front-end developer from Toronto, Canada.  
+I'm Satvir, a full-stack developer from Toronto, Canada.  
 Currently, I'm looking for remote oppurtunities in front-end or full-stack web development.  
 
 **Feel free to check out some of the things that I'm building, the best places to start are:**      
