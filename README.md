@@ -4,7 +4,7 @@ I'm Satvir, a front-end developer from Toronto, Canada.
 Currently, I'm looking for remote oppurtunities in front-end or full-stack web development.  
 
 **Feel free to check out some of the things that I'm building, the best places to start are:**      
-**appsmadehere.ca**: An ongoing project, aimed at becoming the best resource to discover apps made in Canada.  
+**[appsmadehere.ca](https://github.com/satv1r/apps-made-here)**: An ongoing project, aimed at becoming the best resource to discover apps made in Canada.  
 **fake**: A tool that lets you  
 **fake**: A tool that lets you  
 
