@@ -9,7 +9,7 @@ Currently, I'm looking for remote oppurtunities in front-end or full-stack web d
 **temp 2**: I'll put something here as well 😅   
 
 **What I Work With:**  
-HTML / CSS (SASS) / JS (ES6+)   
+HTML / CSS (SASS) / JS (ES6+) / Accessibility / Git 
 Node, React, Express, MongoDB, Firebase   
 
  **Dev / Design**  
