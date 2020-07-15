@@ -1,5 +1,5 @@
 
-### Welcome Stranger, It's a pleasure to have you here 😁
+### Welcome stranger! It's a pleasure to have you here 😁
 I'm Satvir, a full-stack developer from Toronto, Canada.  
 Currently, I'm looking for remote oppurtunities in front-end or full-stack web development.  
 
