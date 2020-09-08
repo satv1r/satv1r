@@ -1,7 +1,7 @@
 
 ### Welcome stranger! It's a pleasure to have you here 😁
 I'm Satvir, a full-stack developer from Toronto, Canada.  
-Currently, I'm looking for remote oppurtunities in front-end or full-stack web development.  
+Currently, I'm looking for remote oppurtunities in front-end development.  
 
 **Feel free to check out some of the things that I'm building, the best places to start are:**      
 **[appsmadehere.ca](https://github.com/satv1r/apps-made-here)**: An ongoing project, aimed at becoming the best resource to discover apps made in Canada.  
