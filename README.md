@@ -10,14 +10,14 @@ Currently, I'm looking for remote oppurtunities in front-end development.
 HTML / CSS (SASS) / JS (ES6+) / React    
 Node, Express, MongoDB, Firebase   
 
- **Dev / Design**  
+ **Find Me**  
 👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
 🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
-👨🏾‍🎨 Dribble: [satv1r](https://dribbble.com/satv1r)  
-
-**Connect**  
 💬 Twitter: [satv1r](https://twitter.com/satv1r)  
 ✍🏽 Email: 356Sandhu@gmail.com
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=satv1r)](https://github.com/satv1r)
+
 
 <!--
 **satv1r/satv1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
