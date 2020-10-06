@@ -5,12 +5,10 @@ Currently, I'm looking for remote oppurtunities in front-end development.
 
 **Feel free to check out some of the things that I'm building, the best places to start are:**      
 **[appsmadehere.ca](https://github.com/satv1r/apps-made-here)**: An ongoing project, aimed at becoming the best resource to discover apps made in Canada.  
-**temp**: I'll put something here 😅   
-**temp 2**: I'll put something here as well 😅   
 
 **What I Work With:**  
-HTML / CSS (SASS) / JS (ES6+) / Accessibility / Git  
-Node, React, Express, MongoDB, Firebase   
+HTML / CSS (SASS) / JS (ES6+) / React    
+Node, Express, MongoDB, Firebase   
 
  **Dev / Design**  
 👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
