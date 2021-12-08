@@ -8,7 +8,8 @@ Currently, I'm seeking remote oppurtunities in front-end development.
 
 **What I Work With:**  
 HTML / CSS (SASS) / JS (ES6+) / React    
-Node, Express, MongoDB, Firebase   
+Node, Express  
+Postgres, MongoDB   
 
  **Find Me**  
 👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
