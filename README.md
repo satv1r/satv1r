@@ -14,9 +14,7 @@ Postgres, MongoDB
  **Find Me**  
 👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
 🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
-💬 Twitter: [satv1r](https://twitter.com/satv1r)  
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=satv1r)](https://github.com/satv1r)
+💬 Twitter: [satv1r](https://twitter.com/satv1r)
 
 
 <!--
