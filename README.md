@@ -1,10 +1,6 @@
 
 ### Welcome stranger! It's a pleasure to have you here 😁
-I'm Satvir, front end developer that loves to create beautiful websites and enticing products.  
-Currently, I'm seeking remote oppurtunities in front-end development.  
-
-**Feel free to check out some of the things that I'm building, the best places to start are:**      
-**[appsmadehere.ca](https://github.com/satv1r/apps-made-here)**: An ongoing project, aimed at becoming the best resource to discover apps made in Canada.  
+I'm Satvir, a fullstack developer that loves to create beautiful experiences and build incredible products.
 
 **What I Work With:**  
 HTML / CSS (SASS) / JS (ES6+) / React    
