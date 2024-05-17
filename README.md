@@ -7,10 +7,8 @@ HTML / CSS (SASS) / JS (ES6+) / React
 Node, Express  
 Postgres, MongoDB   
 
- **Find Me**  
-👨🏾‍💻 Portfolio: [satvir.ca](https://www.satvir.ca/)  
-🎨 CodePen: [satv1r](https://codepen.io/satv1r)   
-💬 Twitter: [satv1r](https://twitter.com/satv1r)
+ **Find Me** 
+🤫
 
 
 <!--
